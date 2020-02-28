@@ -53,6 +53,45 @@ namespace lists {
 
             // 1 Mercury, 2 Venus, 3 Earth, 4  Mars, 5 Jupiter,  6 Saturn, 
             //  7 Uranus, 8 Neptune, 9 Pluto
+
+            // Use Add() again to add Pluto to the end of the list.
+            planetList.Add ("Pluto");
+
+            foreach (string planet in planetList) {
+                Console.WriteLine (planet);
+            }
+
+            // 1 Mercury, 2 Venus, 3 Earth, 4  Mars, 5 Jupiter,  6 Saturn, 
+            //  7 Uranus, 8 Neptune, 9 Pluto
+
+            List<string> planetList4 = new List<string> () { "Mercury", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune" };
+            // Use Insert() to add Earth 3, and Venus 2 in the correct order.
+
+            // Insert a Venus at position 2.
+
+            Console.WriteLine ("\nInsert(1, \"Venus 2nd planet\")");
+            Console.WriteLine ("\nInsert(2, \"Earth 3rd planet\")");
+            planetList4.Insert (1, "Venus");
+
+            // Insert a Earth at position 3.
+            // Console.WriteLine ("\nInsert(2, \"Earth\")");
+            planetList4.Insert (2, "Earth");
+
+            //Console.WriteLine();
+            // foreach (string planet in planetList4) {
+            //     Console.WriteLine (planet);
+            // }
+
+            // 1 Mercury, 2 Venus, 3 Earth, 4  Mars, 5 Jupiter,  6 Saturn, 
+            //  7 Uranus, 8 Neptune, 9 Pluto
+
+            // Use Add() again to add Pluto to the end of the list.
+            planetList4.Add ("Pluto");
+
+            foreach (string planet in planetList4) {
+                Console.WriteLine (planet);
+            }
+
         }
     }
 }
