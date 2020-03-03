@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 namespace planyourheist {
     class Program {
+        private const string Value = "💰";
+
         static void Main (string[] args)
 
         // At the beginning of the program, prompt the user to enter the difficulty level of the bank.
@@ -83,39 +85,39 @@ namespace planyourheist {
                 Console.Clear ();
                 for (int i = 0; i < timesToRepeat; i++) {
 
-                }
-                // Phase 4
-                // Create a random number between -10 and 10 for the heist's luck value.
-                // Add this number to the bank's difficulty level.
-                // Before displaying the success or failure message, display a report that shows.
-                // The team's combined skill level
-                // The bank's difficulty level
+                    // }
+                    // Phase 4
+                    // Create a random number between -10 and 10 for the heist's luck value.
+                    // Add this number to the bank's difficulty level.
+                    // Before displaying the success or failure message, display a report that shows.
+                    // The team's combined skill level
+                    // The bank's difficulty level
 
-                Random randy = new Random ();
-                int luckValue = randy.Next (-10, 11);
+                    Random randy = new Random ();
+                    int luckValue = randy.Next (-10, 11);
 
-                int totalBankDifficulty = bankDifficulty + luckValue;
+                    int totalBankDifficulty = bankDifficulty + luckValue;
 
-                Console.WriteLine ($"Combined skill level: {combinedSkillLevel}");
-                Console.WriteLine ($"Bank Difficulty level: {bankDifficulty}");
-                Console.WriteLine ("************************************************************");
+                    Console.WriteLine ($"Combined skill level: {combinedSkillLevel}");
+                    Console.WriteLine ($"Bank Difficulty level TOT: {totalBankDifficulty}");
+                    // Console.WriteLine ("************************************************************");
 
-                // Compare the number with the bank's difficulty level. If the team's skill level is greater than 
-                // or equal to the bank's difficulty level, Display a success message, otherwise display a failure message.
-                if (combinedSkillLevel >= totalBankDifficulty) {
-                    Console.WriteLine ("💰💰💰💰💰💰💰");
-                    Console.WriteLine ("Bags of Money!");
+                    // Compare the number with the bank's difficulty level. If the team's skill level is greater than 
+                    // or equal to the bank's difficulty level, Display a success message, otherwise display a failure message.
+                    if (combinedSkillLevel >= totalBankDifficulty) {
+                        Console.WriteLine ("💰💰💰💰💰💰");
+                        Console.WriteLine ("Bags of Money!");
+                        Console.WriteLine ("************************************************************");
+                    } else {
 
-                } else {
-
-                    Console.WriteLine ("🚨🚨🚨🚨🚨🚨");
-                    Console.WriteLine ("Go to JAIL!!!");
+                        Console.WriteLine ("🚨🚨🚨🚨🚨🚨");
+                        Console.WriteLine ("Go to JAIL!!!");
+                        Console.WriteLine ("************************************************************");
+                    }
 
                 }
 
             }
-
         }
-
     }
 }
