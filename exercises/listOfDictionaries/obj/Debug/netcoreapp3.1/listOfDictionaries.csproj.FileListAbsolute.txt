@@ -1,0 +1,11 @@
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\bin\Debug\netcoreapp3.1\listOfDictionaries.exe
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\bin\Debug\netcoreapp3.1\listOfDictionaries.deps.json
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\bin\Debug\netcoreapp3.1\listOfDictionaries.runtimeconfig.json
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\bin\Debug\netcoreapp3.1\listOfDictionaries.runtimeconfig.dev.json
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\bin\Debug\netcoreapp3.1\listOfDictionaries.dll
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\bin\Debug\netcoreapp3.1\listOfDictionaries.pdb
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\obj\Debug\netcoreapp3.1\listOfDictionaries.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\obj\Debug\netcoreapp3.1\listOfDictionaries.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\obj\Debug\netcoreapp3.1\listOfDictionaries.AssemblyInfo.cs
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\obj\Debug\netcoreapp3.1\listOfDictionaries.dll
+C:\Users\Owner\workspace\csharp\exercises\listOfDictionaries\obj\Debug\netcoreapp3.1\listOfDictionaries.pdb
