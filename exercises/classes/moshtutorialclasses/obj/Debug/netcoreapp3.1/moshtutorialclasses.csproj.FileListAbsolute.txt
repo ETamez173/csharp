@@ -1,0 +1,11 @@
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\bin\Debug\netcoreapp3.1\moshtutorialclasses.exe
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\bin\Debug\netcoreapp3.1\moshtutorialclasses.deps.json
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\bin\Debug\netcoreapp3.1\moshtutorialclasses.runtimeconfig.json
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\bin\Debug\netcoreapp3.1\moshtutorialclasses.runtimeconfig.dev.json
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\bin\Debug\netcoreapp3.1\moshtutorialclasses.dll
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\bin\Debug\netcoreapp3.1\moshtutorialclasses.pdb
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\obj\Debug\netcoreapp3.1\moshtutorialclasses.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\obj\Debug\netcoreapp3.1\moshtutorialclasses.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\obj\Debug\netcoreapp3.1\moshtutorialclasses.AssemblyInfo.cs
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\obj\Debug\netcoreapp3.1\moshtutorialclasses.dll
+C:\Users\Owner\workspace\csharp\exercises\classes\moshtutorialclasses\obj\Debug\netcoreapp3.1\moshtutorialclasses.pdb
