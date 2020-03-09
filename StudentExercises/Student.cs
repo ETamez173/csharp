@@ -5,30 +5,57 @@
 using System;
 using System.Collections.Generic;
 
-namespace StudentExcercises {
+namespace StudentExercises
+{
 
     // Properties
-    // First name
-    public class Student {
+
+    public class Student
+    {
         public string FirstName { get; set; }
         // Last name
         public string LastName { get; set; }
         // Slack handle
         public string SlackHandle { get; set; }
         // The student's cohort
-        public int Cohort { get; set; }
+        public Cohort Cohort { get; set; }
+
         // The collection of exercises that the student is currently working on
         // public string StudentCollectionOfExcercises { get; set; }
-        public List<Excercise> StudentCollectionOfExcercises = new List<Excercise> ();
+        public List<Exercise> StudentCollectionOfExercises = new List<Exercise>();
 
-        public void AddExcerciseToStudent (Excercise excercise)
+        public void AddExerciseToStudent(Exercise exercise)
 
         {
 
-            StudentCollectionOfExcercises.Add (excercise);
+            StudentCollectionOfExercises.Add(exercise);
         }
 
-        // public string
+        ///////
+
+        // Constructor
+        /// Constructor is particular type of Method, doesnt have a return type
+        /// name of method is same as the name of the class
+        /// this is the method that will run when ever I say "new" Student and actually make a student
+        public Student(string firstName, string lastName, string slackHandle, Cohort cohort)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            SlackHandle = slackHandle;
+            Cohort = cohort;
+        }
+
+        public void Description()
+        {
+            Console.WriteLine(this.FirstName + " " + this.LastName);
+            Console.WriteLine($"Slack Handle: {this.SlackHandle}");
+            Console.WriteLine($"Cohort: {this.Cohort.Name}");
+            foreach (Exercise exercise in this.StudentCollectionOfExercises)
+            {
+                Console.WriteLine($"Currently working on {exercise.ExerciseName}");
+            }
+            Console.WriteLine($"-------------------");
+        }
 
     }
 }
