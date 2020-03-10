@@ -1,0 +1,11 @@
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\bin\Debug\netcoreapp3.1\studentexerciselinq.exe
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\bin\Debug\netcoreapp3.1\studentexerciselinq.deps.json
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\bin\Debug\netcoreapp3.1\studentexerciselinq.runtimeconfig.json
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\bin\Debug\netcoreapp3.1\studentexerciselinq.runtimeconfig.dev.json
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\bin\Debug\netcoreapp3.1\studentexerciselinq.dll
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\bin\Debug\netcoreapp3.1\studentexerciselinq.pdb
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\obj\Debug\netcoreapp3.1\studentexerciselinq.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\obj\Debug\netcoreapp3.1\studentexerciselinq.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\obj\Debug\netcoreapp3.1\studentexerciselinq.AssemblyInfo.cs
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\obj\Debug\netcoreapp3.1\studentexerciselinq.dll
+C:\Users\Owner\workspace\csharp\exercises\studentexerciselinq\obj\Debug\netcoreapp3.1\studentexerciselinq.pdb

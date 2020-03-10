@@ -1,0 +1,11 @@
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\bin\Debug\netcoreapp3.1\linqexercises.exe
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\bin\Debug\netcoreapp3.1\linqexercises.deps.json
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\bin\Debug\netcoreapp3.1\linqexercises.runtimeconfig.json
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\bin\Debug\netcoreapp3.1\linqexercises.runtimeconfig.dev.json
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\bin\Debug\netcoreapp3.1\linqexercises.dll
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\bin\Debug\netcoreapp3.1\linqexercises.pdb
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\obj\Debug\netcoreapp3.1\linqexercises.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\obj\Debug\netcoreapp3.1\linqexercises.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\obj\Debug\netcoreapp3.1\linqexercises.AssemblyInfo.cs
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\obj\Debug\netcoreapp3.1\linqexercises.dll
+C:\Users\Owner\workspace\csharp\exercises\linqexercises\obj\Debug\netcoreapp3.1\linqexercises.pdb
