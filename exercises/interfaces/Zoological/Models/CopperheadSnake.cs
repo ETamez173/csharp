@@ -6,6 +6,14 @@ namespace Zoological
 
     {
 
+        public string Species { get; set; }
+        public string Name { get; set; }
+        public string Color { get; set; }
+        public string Food { get; set; }
+
+        ///
+        /// these three below are implementing the Idiggers and ICrawlers 
+        /// and ISwimmers interfaces
         public void Crawl()
         {
             Console.WriteLine("Snake is now crawling");

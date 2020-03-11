@@ -1,8 +1,8 @@
 namespace FlowerShop
 {
-    public interface IGetWell : IBirthday, IMothersday
+    public interface IGetWell : IBirthday, IMothersDay
     {
         // string Color { get; set; }
-        // double StemLength { get; set; }
+        double StemLength { get; set; }
     }
 }

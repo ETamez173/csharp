@@ -1,0 +1,11 @@
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\bin\Debug\netcoreapp3.1\TryCatchIntro.exe
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\bin\Debug\netcoreapp3.1\TryCatchIntro.deps.json
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\bin\Debug\netcoreapp3.1\TryCatchIntro.runtimeconfig.json
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\bin\Debug\netcoreapp3.1\TryCatchIntro.runtimeconfig.dev.json
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\bin\Debug\netcoreapp3.1\TryCatchIntro.dll
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\bin\Debug\netcoreapp3.1\TryCatchIntro.pdb
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\obj\Debug\netcoreapp3.1\TryCatchIntro.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\obj\Debug\netcoreapp3.1\TryCatchIntro.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\obj\Debug\netcoreapp3.1\TryCatchIntro.AssemblyInfo.cs
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\obj\Debug\netcoreapp3.1\TryCatchIntro.dll
+C:\Users\Owner\workspace\csharp\exercises\TryCatchIntro\obj\Debug\netcoreapp3.1\TryCatchIntro.pdb

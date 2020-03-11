@@ -1,5 +1,8 @@
-public interface ICrawlers
+namespace Zoological
 {
-    void Crawl();
+    public interface ICrawlers
+    {
+        void Crawl();
 
+    }
 }
