@@ -1,0 +1,11 @@
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\bin\Debug\netcoreapp3.1\Zoological.exe
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\bin\Debug\netcoreapp3.1\Zoological.deps.json
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\bin\Debug\netcoreapp3.1\Zoological.runtimeconfig.json
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\bin\Debug\netcoreapp3.1\Zoological.runtimeconfig.dev.json
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\bin\Debug\netcoreapp3.1\Zoological.dll
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\bin\Debug\netcoreapp3.1\Zoological.pdb
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\obj\Debug\netcoreapp3.1\Zoological.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\obj\Debug\netcoreapp3.1\Zoological.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\obj\Debug\netcoreapp3.1\Zoological.AssemblyInfo.cs
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\obj\Debug\netcoreapp3.1\Zoological.dll
+C:\Users\Owner\workspace\csharp\exercises\interfaces\Zoological\obj\Debug\netcoreapp3.1\Zoological.pdb
